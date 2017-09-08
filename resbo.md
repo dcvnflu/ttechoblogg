@@ -1,2 +1,0 @@
-# resbo-tech
-resbo-tech
